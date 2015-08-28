@@ -4,6 +4,5 @@ steelhead
 coho 
 steelhead 
 steelhead
-blah blah blah 
-total blah
+blah blah blah
 
